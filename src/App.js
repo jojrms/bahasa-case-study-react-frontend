@@ -1,6 +1,10 @@
+import LandingPage from "./components/landingPage";
+import './components/style/landingPage.css'
+
 function App() {
   return (
     <div className="App">
+      <LandingPage/>
     </div>
   );
 }
